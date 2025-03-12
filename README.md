@@ -10,8 +10,7 @@ Ara 3D has an integrated C# scripting engine. Tools and scripts that you write f
 
 ## Part Open-Source and Closed-Source
 
-The main application and rendering system in Ara 3D Studio is closed-source, however much of the API (including libraries for math, geometry, importing, are exporting data) are made available 
+The main application and rendering engine in Ara 3D Studio is closed-source, and can be licensed, however much of the API (including libraries for math, geometry, importing, are exporting data) are made available 
 as commerically friendly MIT-licensed open-source libraries. 
 
-Having that the entire community, including ourselves, will benefit from having a free and open high-quality geometry kernel. The more that people use and review the library, the more robust and useful 
-it will become.
+This is done so that users have **no hard-coded dependencies** when using our technology to build new tools. 
